@@ -211,7 +211,7 @@ Net-monit-V11.0/
 │   ├── DOC-User-Guide.md / .docx
 │   ├── DOC-Admin-Guide.md / .docx
 │   ├── DOC-Service-Task-Monitoring-Guide.md / .docx
-│   └── CLAUDE.md                       Architecture and development history (13 lessons)
+│   
 └── scripts/
     ├── windows/
     │   ├── Setup-Windows.ps1           GUI setup wizard (7 pages)
@@ -243,7 +243,6 @@ Edit `config.yaml` to customize:
 | DOC-User-Guide | Markdown + Word | Dashboard overview, monitoring devices, managing alerts, dashboard layout |
 | DOC-Admin-Guide | Markdown + Word | User management, SMTP, audit log, licensing, licensing background |
 | DOC-Service-Task-Monitoring-Guide | Markdown + Word | Windows services and scheduled tasks monitoring |
-| CLAUDE.md | Markdown | Architecture decisions, design patterns, 13 lessons for future development |
 | DOC-ProductOwner-Guide | Markdown + Word (owner-only) | Key generation, key rotation, passphrase protection, disaster recovery |
 
 ---
